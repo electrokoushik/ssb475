@@ -29,3 +29,17 @@
 	height:200px;
 	background-color:black;	
 }
+
+.margin{
+	width: 50%;
+	height:200px;
+	margin:10px;
+	background-color:red;
+}
+
+.padding{
+	width: 50%;
+	height:200px;
+	padding:10px;
+	background-color:green;
+}
